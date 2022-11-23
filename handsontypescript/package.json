@@ -1,0 +1,28 @@
+{
+  "name": "handsontypescript",
+  "version": "1.0.0",
+  "description": "learning typescript for web dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenificient/handsontypescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "basic",
+    "to",
+    "basics"
+  ],
+  "author": "Christian Tioye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codenificient/handsontypescript/issues"
+  },
+  "homepage": "https://github.com/codenificient/handsontypescript#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
