@@ -16,5 +16,9 @@
     "noImplicitReturns": true,
     "skipLibCheck": true
   },
+  "ts-node": {
+    "files": true,
+    "esm": true
+  },
   "include": ["src"]
 }

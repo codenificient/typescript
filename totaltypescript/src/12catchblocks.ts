@@ -15,7 +15,7 @@ const tryCatchDemo = ( state: "fail" | "success" ) =>
 	}
 }
 
-const tryCatchDemo1 = ( state: "fail" | "success" ) =>
+export const tryCatchDemo1 = ( state: "fail" | "success" ) =>
 {
 	try
 	{
